@@ -29,7 +29,7 @@
 		'add_user_x_favorites' => 'Lisää käyttäjä ^ suosikkeihini',
 		'avatar_default' => 'Oletus',
 		'avatar_gravatar' => 'Näytä ^1gravatar^2',
-		'avatar_label' => 'Avatar:',
+		'avatar_label' => 'Kuva:',
 		'avatar_none' => 'Ei mikään',
 		'block_user_button' => 'Torju käyttäjä',
 		'blocked_users' => 'Torjutut käyttäjät',
