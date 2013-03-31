@@ -72,7 +72,7 @@
 		'login_title' => 'Kirjaudu sisään',
 		'mass_mailings_explanation' => 'Tilaa kaikille käyttäjille lähetettävät sähköpostit',
 		'mass_mailings' => 'Joukkopostitukset:',
-		'member_for' => 'Member for:',
+		'member_for' => 'Käyttäjänä:',
 		'member_type' => 'Tyyppi:',
 		'new_password_1' => 'Uusi salasana:',
 		'new_password_2' => 'Uusi salasana uudestaan:',
