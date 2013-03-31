@@ -25,55 +25,55 @@
 */
 
 	return array(
-		'a_commented_body' => "Your answer on ^site_title has a new comment by ^c_handle:\n\n^open^c_content^close\n\nYour answer was:\n\n^open^c_context^close\n\nYou may respond by adding your own comment:\n\n^url\n\nThank you,\n\n^site_title",
-		'a_commented_subject' => 'Your ^site_title answer has a new comment',
+		'a_commented_body' => "Sinun kysymyksesi sivustolla ^site_title on saanut uuden kommentin käyttäjältä ^c_handle:\n\n^open^c_content^close\n\nVastauksesi oli:\n\n^open^c_context^close\n\nVoit vastata lisäämällä oman kommenttisi:\n\n^url\n\nKiitos,\n\n^site_title",
+		'a_commented_subject' => 'Sinun kysymyksesi sivustolla ^site_title on saanut uuden kommentin',
 
-		'a_followed_body' => "Your answer on ^site_title has a new related question by ^q_handle:\n\n^open^q_title^close\n\nYour answer was:\n\n^open^a_content^close\n\nClick below to answer the new question:\n\n^url\n\nThank you,\n\n^site_title",
-		'a_followed_subject' => 'Your ^site_title answer has a related question',
+		'a_followed_body' => "Sinun kysymykselläsi sivustolla ^site_title on uusi siihen liittyvä kysymys käyttäjältä ^q_handle:\n\n^open^q_title^close\n\nVastauksesi oli:\n\n^open^a_content^close\n\nKlikkaa alla olevaa linkkiä vastataksei uuteen kysymykseen:\n\n^url\n\nKiitos,\n\n^site_title",
+		'a_followed_subject' => 'Sinun kysymykselläsi sivustolla ^site_title on uusi siihen liittyvä kysymys',
 
-		'a_selected_body' => "Congratulations! Your answer on ^site_title has been selected as the best by ^s_handle:\n\n^open^a_content^close\n\nThe question was:\n\n^open^q_title^close\n\nClick below to see your answer:\n\n^url\n\nThank you,\n\n^site_title",
-		'a_selected_subject' => 'Your ^site_title answer has been selected!',
+		'a_selected_body' => "Onnittelut! Vastauksesi sivustolla ^site_title on valittu parhaaksi käyttäjän ^s_handle toimesta:\n\n^open^a_content^close\n\nKysymys oli:\n\n^open^q_title^close\n\nKlikkaa alla olevaa linkkiä nähdäksesi vastauksesi:\n\n^url\n\nKiitos,\n\n^site_title",
+		'a_selected_subject' => 'Vastauksesi sivustolla ^site_title on valittu!',
 
-		'c_commented_body' => "A new comment by ^c_handle has been added after your comment on ^site_title:\n\n^open^c_content^close\n\nThe discussion is following:\n\n^open^c_context^close\n\nYou may respond by adding another comment:\n\n^url\n\nThank you,\n\n^site_title",
-		'c_commented_subject' => 'Your ^site_title comment has been added to',
+		'c_commented_body' => "Uusi kommentti käyttäjältä ^c_handle on lisätty kommenttisi jälkeen sivustolla ^site_title:\n\n^open^c_content^close\n\nKeskustelu on seuraavanlainen:\n\n^open^c_context^close\n\nVita vastata lisäämällä uuden kommentin:\n\n^url\n\nKiitos,\n\n^site_title",
+		'c_commented_subject' => 'Kommenttisi sivustolla ^site_title on lisätty',
 
-		'confirm_body' => "Please click below to confirm your email address for ^site_title.\n\n^url\n\nThank you,\n^site_title",
-		'confirm_subject' => '^site_title - Email Address Confirmation',
+		'confirm_body' => "Ole hyvä ja klikkaa alla olevaa linkkiä vahvistaaksesi sähköpostiosoitteesi sivustolle ^site_title.\n\n^url\n\nKiitos,\n^site_title",
+		'confirm_subject' => '^site_title - Sähköpostiosoiteen vahvistaminen',
 
-		'feedback_body' => "Comments:\n^message\n\nName:\n^name\n\nEmail:\n^email\n\nPrevious page:\n^previous\n\nUser:\n^url\n\nIP address:\n^ip\n\nBrowser:\n^browser",
-		'feedback_subject' => '^ feedback',
+		'feedback_body' => "Kommentit:\n^message\n\nNimi:\n^name\n\nSähköposti:\n^email\n\nEdellinen sivu:\n^previous\n\nKäyttäjä:\n^url\n\nIP-osoite:\n^ip\n\nSelain:\n^browser",
+		'feedback_subject' => '^ palaute',
 
-		'flagged_body' => "A post by ^p_handle has received ^flags:\n\n^open^p_context^close\n\nClick below to see the post:\n\n^url\n\nThank you,\n\n^site_title",
-		'flagged_subject' => '^site_title has a flagged post',
+		'flagged_body' => "Viesti käyttäjältä ^p_handle on vastaanotettu ^flags:\n\n^open^p_context^close\n\nKlikkaa alla olevaa linkkiä nähdäksesi viestin:\n\n^url\n\nKiitos,\n\n^site_title",
+		'flagged_subject' => 'Sivustolla ^site_title on liputettu viesti',
 
-		'moderate_body' => "A post by ^p_handle requires your approval:\n\n^open^p_context^close\n\nClick below to approve or reject the post:\n\n^url\n\nThank you,\n\n^site_title",
-		'moderate_subject' => '^site_title moderation',
+		'moderate_body' => "Viesti käyttäjältä ^p_handle vaatii hyväksyntääsi:\n\n^open^p_context^close\n\nKlikkaa alla olevaa linkkiä hyväksyäsi tai hylkääksesi viestin:\n\n^url\n\nKiitos,\n\n^site_title",
+		'moderate_subject' => '^site_title moderointi',
 
-		'new_password_body' => "Your new password for ^site_title is below.\n\nPassword: ^password\n\nIt is recommended to change this password immediately after logging in.\n\nThank you,\n^site_title\n^url",
-		'new_password_subject' => '^site_title - Your New Password',
+		'new_password_body' => "Uusi salasanasi sivustolle ^site_title on alla.\n\nSalasana: ^password\n\nSuosittelemme vaihtamaan tämän salasanan välittömästi kirjautumisen jälkeen.\n\nKiitos,\n^site_title\n^url",
+		'new_password_subject' => '^site_title - Uusi salasanasi',
 
-		'private_message_body' => "You have been sent a private message by ^f_handle on ^site_title:\n\n^open^message^close\n\n^moreThank you,\n\n^site_title\n\n\nTo block private messages, visit your account page:\n^a_url",
-		'private_message_info' => "More information about ^f_handle:\n\n^url\n\n",
-		'private_message_reply' => "Click below to reply to ^f_handle by private message:\n\n^url\n\n",
-		'private_message_subject' => 'Message from ^f_handle on ^site_title',
+		'private_message_body' => "Käyttäjä ^f_handle on lähettänyt sinulle uuden viestin sivustolta  ^site_title:\n\n^open^message^close\n\n^moreKiitos,\n\n^site_title\n\n\nVoit torjua yksityisviestit tilisivultasi:\n^a_url",
+		'private_message_info' => "Lisätietoja käyttäjästä ^f_handle:\n\n^url\n\n",
+		'private_message_reply' => "Klikkaa alapuolella olevaa linkkiä vastataksesi käyttäjän ^f_handle yksityisviestiin:\n\n^url\n\n",
+		'private_message_subject' => 'Viesti käyttäjältä ^f_handle sivustolta ^site_title',
 
-		'q_answered_body' => "Your question on ^site_title has been answered by ^a_handle:\n\n^open^a_content^close\n\nYour question was:\n\n^open^q_title^close\n\nIf you like this answer, you may select it as the best:\n\n^url\n\nThank you,\n\n^site_title",
-		'q_answered_subject' => 'Your ^site_title question was answered',
+		'q_answered_body' => "Käyttäjä ^a_handle on vastannut kysymykseesi sivustolla ^site_title:\n\n^open^a_content^close\n\nYour question was:\n\n^open^q_title^close\n\nJos pidät tästä vatauksesta, voit valita sen parhaaksi:\n\n^url\n\nKiitos,\n\n^site_title",
+		'q_answered_subject' => 'Kysymykseesi sivustolla ^site_title on tullut vastaus',
 
-		'q_commented_body' => "Your question on ^site_title has a new comment by ^c_handle:\n\n^open^c_content^close\n\nYour question was:\n\n^open^c_context^close\n\nYou may respond by adding your own comment:\n\n^url\n\nThank you,\n\n^site_title",
-		'q_commented_subject' => 'Your ^site_title question has a new comment',
+		'q_commented_body' => "Käyttäjä ^c_handle on kommentoinut kysymystäsi sivustolla ^site_title:\n\n^open^c_content^close\n\nKysymyksesi oli:\n\n^open^c_context^close\n\nVoit vastata lisäämällä oman kommenttisi:\n\n^url\n\nKiitos,\n\n^site_title",
+		'q_commented_subject' => 'Kysymystäsi sivustolla^site_title on kommentoitu',
 
-		'q_posted_body' => "A new question has been asked by ^q_handle:\n\n^open^q_title\n\n^q_content^close\n\nClick below to see the question:\n\n^url\n\nThank you,\n\n^site_title",
-		'q_posted_subject' => '^site_title has a new question',
+		'q_posted_body' => "Käyttäjä ^q_handle on kysynyt uuden kysymyksen:\n\n^open^q_title\n\n^q_content^close\n\nKlikkaa alla olevaa linkkiä nähdäksesi kysymyksen:\n\n^url\n\nKiitos,\n\n^site_title",
+		'q_posted_subject' => 'Sivustolla ^site_title on uusi kysymys',
 
-		'reset_body' => "Please click below to reset your password for ^site_title.\n\n^url\n\nAlternatively, enter the code below into the field provided.\n\nCode: ^code\n\nIf you did not ask to reset your password, please ignore this message.\n\nThank you,\n^site_title",
-		'reset_subject' => '^site_title - Reset Forgotten Password',
+		'reset_body' => "Ole hyvä ja klikkaa alla olevaa linkkiä asettaaksesi salasanasi uudestaan sivustolle ^site_title.\n\n^url\n\nVaihtoehtoisesti voit antaa alla olevan koodin silel tarkoitettuun kenttään.\n\nKoodi: ^code\n\nJos et pyytänyt salasanasi nollausta, voit jättää tämän viestin huomiotta.\n\nKiitos,\n^site_title",
+		'reset_subject' => '^site_title - Nollaa unohtunut salasana',
 
 		'to_handle_prefix' => "^,\n\n",
 
-		'welcome_body' => "Thank you for registering for ^site_title.\n\n^custom^confirmYour login details are as follows:\n\nEmail: ^email\nPassword: ^password\n\nPlease keep this information safe for future reference.\n\nThank you,\n\n^site_title\n^url",
-		'welcome_confirm' => "Please click below to confirm your email address.\n\n^url\n\n",
-		'welcome_subject' => 'Welcome to ^site_title!',
+		'welcome_body' => "Kiitos rekisteröitymisestäsi sivustolle ^site_title.\n\n^custom^confirmKirjautumistietosi ovat:\n\nSähköposti: ^email\nSalasana: ^password\n\nOle hyvä ja talleta nämä tiedot vastaisen varalle.\n\nKiitos,\n\n^site_title\n^url",
+		'welcome_confirm' => "Ole hyvä ja klikkaa alla olevaa linkkiä vahvistaaksesi sähköpostiosoitteesi.\n\n^url\n\n",
+		'welcome_subject' => 'Tervetuloa sivustolle ^site_title!',
 	);
 	
 
