@@ -64,7 +64,7 @@
 		'level_editor' => 'Editori',
 		'level_expert' => 'Asiantuntija',
 		'level_moderator' => 'Moderaattori',
-		'level_super' => 'Superylläpitäjä',
+		'level_super' => 'Pääylläpitäjä',
 		'location' => 'Sijainti',
 		'log_in_to_access' => 'Voit nyt ^1kirjautua^2 sisään.',
 		'login_button' => 'Kirjaudu',
