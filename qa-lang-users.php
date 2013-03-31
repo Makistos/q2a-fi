@@ -120,7 +120,7 @@
 		'user_blocked' => '(torjuttu)',
 		'user_not_found' => 'Käyttäjää ei löytynyt',
 		'website' => 'Verkkosivu',
-		'x_ago_from_y' => 'Tapahtumasta ^2 on ^1',
+		'x_ago_from_y' => 'Osoitteesta ^2 on ^1',
 	);
 	
 
