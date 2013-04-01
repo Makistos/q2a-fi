@@ -64,7 +64,7 @@
 		'send_private_message' => ' - ^1lähetä yksityisviesti^2',
 		'set_bonus_button' => 'Päivitä bonus',
 		'title' => 'Otsikko:',
-		'user_x' => 'Käyttäjä ^',
+		'user_x' => '^',
 		'voted_on' => 'Äänestänyt:',
 		'x_chosen_as_best' => ' (^ valittu parhaaksi)',
 		'x_down_votes' => '^ miinusääntä',
