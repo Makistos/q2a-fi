@@ -183,7 +183,7 @@
 		'permit_users' => 'Rekisteröidyt käyttäjät',
 		'place_full_below_content' => 'Täysi leveys - sisällön alapuolella',
 		'place_full_below_footer' => 'Full width - Below footer',
-		'place_full_below_nav' => 'Full width - Below navigation',
+		'place_full_below_nav' => 'Täysi leveys - navigointiosion alapuolella',
 		'place_full_top' => 'Täysi leveys - sivun yläosassa',
 		'place_main_below_lists' => 'Pääalue - listojen alapuolella',
 		'place_main_below_title' => 'Pääalue - otsikon alapuolella',
