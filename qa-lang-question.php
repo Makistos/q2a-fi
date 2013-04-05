@@ -85,7 +85,7 @@
 		'delete_button' => 'poista',
 		'delete_c_popup' => 'Poista tämä kommentti pysyvästi',
 		'delete_q_popup' => 'Poista tämä kysymys pysyvästi',
-		'duplicate_content' => 'Your submission appears to be a duplicate.',
+		'duplicate_content' => 'Lähettämäsi aineisto näyttää olevan jo järjestelmässä.',
 		'edit_a_popup' => 'Muokkaa tätä vastausta',
 		'edit_a_title' => 'Muokkaa vastausta',
 		'edit_button' => 'muokkaa',
