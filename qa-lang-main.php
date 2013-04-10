@@ -83,7 +83,7 @@
 		'field_required' => 'Ole hyvä ja kirjoita jotain tähän kenttään',
 		'general_error' => 'Palvelinvirhe - ole hyvä ja yritä uudelleen.',
 		'hidden' => 'piilotettu',
-		'highest_users' => 'Käyttäjät, joille eniten pisteitä',
+		'highest_users' => 'Käyttäjät, joilla eniten pisteitä',
 		'hot_qs_in_x' => 'Kuumia kysymyksiä kategoriassa ^',
 		'hot_qs_title' => 'Kuumat kysymykset',
 		'image_not_read' => 'Kuvaa ei pystytty lukemaan. Hyväksytyt tiedostotyypit ovat: ^',
